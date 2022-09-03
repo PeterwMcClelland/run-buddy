@@ -42,6 +42,7 @@ Footer {
   display: flex;
   background: #fce138;
   width: 100%;
+  height: auto;
   padding: 40px 35px;
 }
 header nav ul {

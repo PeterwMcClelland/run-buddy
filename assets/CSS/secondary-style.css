@@ -1,3 +1,7 @@
+body {
+    color: black;
+}
+
 .hero {
     background-image: url(../images/hero-bg.jpeg);
     background-size: cover;
